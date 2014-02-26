@@ -1,4 +1,4 @@
-update=Wed 26 Feb 2014 08:38:37 PM CET
+update=Wed 26 Feb 2014 09:47:40 PM CET
 version=1
 last_client=eeschema
 [cvpcb]
@@ -87,3 +87,4 @@ LibName30=valves
 LibName31=sn74lvc1g74
 LibName32=ts2937
 LibName33=nds355
+LibName34=74hct125
