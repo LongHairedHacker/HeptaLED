@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Mon 17 Feb 2014 11:14:47 AM CET
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sat 16 Aug 2014 12:07:51 AM CEST
 
 BeginCmp
 TimeStamp = /52DC3C4B;
@@ -54,6 +54,41 @@ TimeStamp = /52DC36E5;
 Reference = D3;
 ValeurCmp = LED;
 IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8249;
+Reference = D4;
+ValeurCmp = ZENER;
+IdModule  = sod80c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8746;
+Reference = D5;
+ValeurCmp = ZENER;
+IdModule  = sod80c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8A44;
+Reference = D6;
+ValeurCmp = ZENER;
+IdModule  = sod80c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8C62;
+Reference = D7;
+ValeurCmp = ZENER;
+IdModule  = sod80c;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8E6C;
+Reference = D8;
+ValeurCmp = ZENER;
+IdModule  = sod80c;
 EndCmp
 
 BeginCmp
@@ -150,56 +185,56 @@ EndCmp
 BeginCmp
 TimeStamp = /52DC4260;
 Reference = R3;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC4245;
 Reference = R4;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC422A;
 Reference = R5;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC420F;
 Reference = R6;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC41F4;
 Reference = R7;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC41D9;
 Reference = R8;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC41BE;
 Reference = R9;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC3E80;
 Reference = R10;
-ValeurCmp = 200;
+ValeurCmp = 220;
 IdModule  = SM0603;
 EndCmp
 
@@ -257,6 +292,41 @@ TimeStamp = /52DC40ED;
 Reference = R18;
 ValeurCmp = 470;
 IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE823A;
+Reference = R19;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8740;
+Reference = R20;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE888C;
+Reference = R21;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8B05;
+Reference = R22;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EE8D2A;
+Reference = R23;
+ValeurCmp = 1k;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
