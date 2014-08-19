@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sat 16 Aug 2014 12:07:51 AM CEST
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 19 Aug 2014 08:24:23 PM CEST
 
 BeginCmp
 TimeStamp = /52DC3C4B;
@@ -60,35 +60,35 @@ BeginCmp
 TimeStamp = /53EE8249;
 Reference = D4;
 ValeurCmp = ZENER;
-IdModule  = sod80c;
+IdModule  = sod123;
 EndCmp
 
 BeginCmp
 TimeStamp = /53EE8746;
 Reference = D5;
 ValeurCmp = ZENER;
-IdModule  = sod80c;
+IdModule  = sod123;
 EndCmp
 
 BeginCmp
 TimeStamp = /53EE8A44;
 Reference = D6;
 ValeurCmp = ZENER;
-IdModule  = sod80c;
+IdModule  = sod123;
 EndCmp
 
 BeginCmp
 TimeStamp = /53EE8C62;
 Reference = D7;
 ValeurCmp = ZENER;
-IdModule  = sod80c;
+IdModule  = sod123;
 EndCmp
 
 BeginCmp
 TimeStamp = /53EE8E6C;
 Reference = D8;
 ValeurCmp = ZENER;
-IdModule  = sod80c;
+IdModule  = sod123;
 EndCmp
 
 BeginCmp
