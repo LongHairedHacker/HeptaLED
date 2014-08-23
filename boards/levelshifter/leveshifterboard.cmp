@@ -1,16 +1,16 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Wed 05 Mar 2014 05:29:32 PM CET
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 19 Aug 2014 11:22:04 PM CEST
 
 BeginCmp
 TimeStamp = /53135158;
 Reference = C1;
-ValeurCmp = 100n;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /530E62FF;
 Reference = C2;
-ValeurCmp = 100nf;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
@@ -45,7 +45,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5315FBCE;
 Reference = C7;
-ValeurCmp = 100nf;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
@@ -75,6 +75,34 @@ TimeStamp = /52EA260A;
 Reference = D4;
 ValeurCmp = LED;
 IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3BB95;
+Reference = D5;
+ValeurCmp = ZENER_5.6V;
+IdModule  = sod123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3BBA2;
+Reference = D6;
+ValeurCmp = ZENER_5.6V;
+IdModule  = sod123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3BBA8;
+Reference = D7;
+ValeurCmp = ZENER_5.6V;
+IdModule  = sod123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3BBAE;
+Reference = D8;
+ValeurCmp = ZENER_5.6V;
+IdModule  = sod123;
 EndCmp
 
 BeginCmp
@@ -192,14 +220,42 @@ EndCmp
 BeginCmp
 TimeStamp = /5316122F;
 Reference = R11;
-ValeurCmp = R;
+ValeurCmp = 1k;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /53160BB6;
 Reference = R12;
-ValeurCmp = R;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3C2AF;
+Reference = R13;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3C2BC;
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3C2C2;
+Reference = R15;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F3C2C8;
+Reference = R16;
+ValeurCmp = 1k;
 IdModule  = SM0603;
 EndCmp
 
