@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 19 Aug 2014 11:22:04 PM CEST
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Thu 18 Sep 2014 07:55:10 PM CEST
 
 BeginCmp
 TimeStamp = /53135158;
@@ -109,7 +109,7 @@ BeginCmp
 TimeStamp = /530A3B07;
 Reference = F1;
 ValeurCmp = FUSE;
-IdModule  = fuse1;
+IdModule  = fuse22.5;
 EndCmp
 
 BeginCmp
@@ -134,13 +134,6 @@ IdModule  = SIL-7;
 EndCmp
 
 BeginCmp
-TimeStamp = /53174CDC;
-Reference = Q1;
-ValeurCmp = IRLR110;
-IdModule  = DPAK2;
-EndCmp
-
-BeginCmp
 TimeStamp = /53174CCD;
 Reference = Q2;
 ValeurCmp = NDS355;
@@ -162,7 +155,7 @@ IdModule  = SM0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /530DD544;
+TimeStamp = /53FFA455;
 Reference = R3;
 ValeurCmp = 1k;
 IdModule  = SM0603;
@@ -281,10 +274,10 @@ IdModule  = SO8E;
 EndCmp
 
 BeginCmp
-TimeStamp = /530DC723;
+TimeStamp = /53FFA8D4;
 Reference = U2;
-ValeurCmp = SN74LVC1G74;
-IdModule  = SO8E;
+ValeurCmp = 74HC74;
+IdModule  = SO14E;
 EndCmp
 
 BeginCmp
@@ -299,6 +292,13 @@ TimeStamp = /52EA2610;
 Reference = U4;
 ValeurCmp = TS2937;
 IdModule  = DPAK2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FFA18E;
+Reference = U5;
+ValeurCmp = BTS462;
+IdModule  = TO252-5L;
 EndCmp
 
 EndListe

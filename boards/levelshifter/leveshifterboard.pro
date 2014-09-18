@@ -1,58 +1,8 @@
-update=Thu 28 Aug 2014 11:39:10 PM CEST
+update=Thu 18 Sep 2014 06:42:20 PM CEST
 version=1
-last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+last_client=pcbnew
 [general]
 version=1
-[pcbnew]
-version=1
-LastNetListRead=leveshifterboard.net
-UseCmpFile=1
-PadDrill="    1.600000"
-PadDrillOvalY="    1.600000"
-PadSizeH="    2.500000"
-PadSizeV="    2.500000"
-PcbTextSizeV="    1.500000"
-PcbTextSizeH="    1.500000"
-PcbTextThickness="    0.300000"
-ModuleTextSizeV="    1.000000"
-ModuleTextSizeH="    1.000000"
-ModuleTextSizeThickness="    0.150000"
-SolderMaskClearance="    0.000000"
-SolderMaskMinWidth="    0.000000"
-DrawSegmentWidth="    0.200000"
-BoardOutlineThickness="    0.100000"
-ModuleOutlineThickness="    0.150000"
-[pcbnew/libraries]
-LibDir=../lib
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=smd_capacitors
-LibName7=smd_resistors
-LibName8=smd_crystal&oscillator
-LibName9=smd_dil
-LibName10=smd_transistors
-LibName11=libcms
-LibName12=display
-LibName13=led
-LibName14=dip_sockets
-LibName15=pga_sockets
-LibName16=valves
-LibName17=fuse
-LibName18=smisitoto_eu/w_smd_trans
-LibName19=smisitoto_eu/w_smd_diode
-LibName20=rj45
-LibName21=smisitoto_eu/w_pth_resistors
-LibName22=smisitoto_eu/w_conn_pc
-LibName23=logo_silktop_30_00mm
-LibName24=logo_silkbot_30_00mm
 [eeschema]
 version=1
 LibDir=../lib
@@ -98,3 +48,54 @@ LibName33=nds355
 LibName34=74hct125
 LibName35=irlr110
 LibName36=bts462
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[pcbnew]
+version=1
+LastNetListRead=leveshifterboard.net
+UseCmpFile=1
+PadDrill="    0.000000"
+PadDrillOvalY="    0.000000"
+PadSizeH="    0.810260"
+PadSizeV="    2.999740"
+PcbTextSizeV="    1.500000"
+PcbTextSizeH="    1.500000"
+PcbTextThickness="    0.300000"
+ModuleTextSizeV="    1.000000"
+ModuleTextSizeH="    1.000000"
+ModuleTextSizeThickness="    0.150000"
+SolderMaskClearance="    0.000000"
+SolderMaskMinWidth="    0.000000"
+DrawSegmentWidth="    0.200000"
+BoardOutlineThickness="    0.100000"
+ModuleOutlineThickness="    0.150000"
+[pcbnew/libraries]
+LibDir=../lib
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=smd_capacitors
+LibName7=smd_resistors
+LibName8=smd_crystal&oscillator
+LibName9=smd_dil
+LibName10=smd_transistors
+LibName11=libcms
+LibName12=display
+LibName13=led
+LibName14=dip_sockets
+LibName15=pga_sockets
+LibName16=valves
+LibName17=fuse
+LibName18=smisitoto_eu/w_smd_trans
+LibName19=smisitoto_eu/w_smd_diode
+LibName20=rj45
+LibName21=smisitoto_eu/w_pth_resistors
+LibName22=smisitoto_eu/w_conn_pc
+LibName23=logo_silktop_30_00mm
+LibName24=logo_silkbot_30_00mm
+LibName25=to252-5
