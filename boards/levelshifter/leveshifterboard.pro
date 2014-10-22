@@ -1,4 +1,4 @@
-update=Thu 18 Sep 2014 06:42:20 PM CEST
+update=Wed 22 Oct 2014 04:13:11 PM CEST
 version=1
 last_client=pcbnew
 [general]
@@ -57,10 +57,10 @@ EquName1=devcms
 version=1
 LastNetListRead=leveshifterboard.net
 UseCmpFile=1
-PadDrill="    0.000000"
-PadDrillOvalY="    0.000000"
-PadSizeH="    0.810260"
-PadSizeV="    2.999740"
+PadDrill="    1.000760"
+PadDrillOvalY="    1.000760"
+PadSizeH="    4.000500"
+PadSizeV="    4.000500"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
@@ -69,9 +69,9 @@ ModuleTextSizeH="    1.000000"
 ModuleTextSizeThickness="    0.150000"
 SolderMaskClearance="    0.000000"
 SolderMaskMinWidth="    0.000000"
-DrawSegmentWidth="    0.200000"
+DrawSegmentWidth="    0.500000"
 BoardOutlineThickness="    0.100000"
-ModuleOutlineThickness="    0.150000"
+ModuleOutlineThickness="    0.500000"
 [pcbnew/libraries]
 LibDir=../lib
 LibName1=sockets
@@ -99,3 +99,4 @@ LibName22=smisitoto_eu/w_conn_pc
 LibName23=logo_silktop_30_00mm
 LibName24=logo_silkbot_30_00mm
 LibName25=to252-5
+LibName26=logo_hacker_silkbot_10_00mm
